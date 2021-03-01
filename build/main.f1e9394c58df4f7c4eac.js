@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(t,o,e){"use strict";e.r(o);document.querySelector("body"),document.querySelector('button[data-action="start"]'),document.querySelector('button[data-action="stop"]')}},[["QfWi",1]]]);
+//# sourceMappingURL=main.f1e9394c58df4f7c4eac.js.map
